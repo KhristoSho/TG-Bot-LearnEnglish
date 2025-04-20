@@ -14,7 +14,7 @@
 
 ## Установка
 1. Клонируйте репозиторий:
->
+> git@github.com:KhristoSho/TG-Bot-LearnEnglish.git
 2. Установите зависимости 
 >pip install -r requirements.txt
 3. Настройте файл конфигураций keys.py
